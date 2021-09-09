@@ -1,2 +1,2 @@
-# slide2
+# slide
 Created with CodeSandbox
