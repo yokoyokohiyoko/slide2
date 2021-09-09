@@ -43,4 +43,6 @@
     }
     document.querySelectorAll(".thumbnails > li")[target].click()
   })
-}
+
+  const prev = document.getElementById('prev');
+  prev.addEventListener
